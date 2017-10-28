@@ -6,8 +6,7 @@
 //  Copyright © 2017 Victor Studio. All rights reserved.
 //
 
-#import "ViewController.h"
-#import "FPSView.h"
+#import "ViewController.h" 
 
 @interface ViewController ()
 
@@ -17,7 +16,6 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    [FPSView show];
 }
 
 
